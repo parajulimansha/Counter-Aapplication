@@ -15,8 +15,11 @@ A simple React application to manage and track a counter value.
    ```bash
    git clone <repository-URL>
 2. **Navigate to the Project Directory:**
+    ```bash
     cd counter-app
 3. **Install Dependencies:**
+    ```bash
     npm install
 4. **Start the Application:**
+    ```bash
     npm start
